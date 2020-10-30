@@ -17,6 +17,7 @@ import com.google.zxing.qrcode.QRCodeWriter;
 import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
 /**
  * Fonte: https://github.com/journaldev/journaldev/tree/master/CoreJavaProjects/QR-Code-Generator-zxing
+ * Java 6 - 
  * @author M149098
  *
  */
